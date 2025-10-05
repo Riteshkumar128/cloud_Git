@@ -1,4 +1,4 @@
 # cloud_Git
 this is a assignment given by sir on 3rd oct at 11.15 pm
 <br>
-developer - Roteshkumar choudhari
+developer - Riteshkumar choudhari
